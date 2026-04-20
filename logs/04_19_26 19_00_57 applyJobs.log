@@ -1,0 +1,5 @@
+./logs/19-Apr-26 19:00:57::__main__::INFO::{'phone_number': '03472914253', 'profile_path': '', 'positions': ['Mern Stack Developer'], 'locations': ['Karachi, Pakistan', 'Remote'], 'salary': '60,000', 'rate': 25, 'uploads': {'Resume': '/home/kashanadnan/scrap/cv.pdf', 'Cover Letter': '/home/kashanadnan/scrap/cl.pdf'}, 'output_filename': ['/home/kashanadnan/scrap/out.csv'], 'experience_level': None}
+./logs/19-Apr-26 19:00:57::__main__::INFO::Welcome to Easy Apply Bot
+./logs/19-Apr-26 19:00:57::__main__::INFO::current directory is : /home/kashanadnan/scrap
+./logs/19-Apr-26 19:00:57::__main__::INFO::Please wait while we prepare the bot for you
+./logs/19-Apr-26 19:00:57::__main__::INFO::Applying for all experience levels
